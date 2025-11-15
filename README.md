@@ -37,9 +37,9 @@ This repository contains a complete suite of MATLAB tools for:
 
 Through this workshop at MATLAB EXPO 2025, I gained hands-on experience with:
 
--
--
--
+- Setting up MATLAB Source Control Git Settings
+- initializing GitHub directly from MATLAB Online 
+- performing Git "Push", "Pull", and "Commit" directly from MATLAB Online
 
 ### Technical Skills
 - **MATLAB Programming**: Functions, data structures, file I/O, error handling
