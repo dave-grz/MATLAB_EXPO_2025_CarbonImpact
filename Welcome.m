@@ -37,15 +37,15 @@ fprintf('Workshop workspace ready!\n\n'); %[output:2771965c]
 %[text] This workshop consists of 5 progressive exercises:
 %[text] #### Exercise 1: Transport Emissions Calculator
 %[text] Build a function to calculate travel emissions. Work on Exercise 1 using [this link.](file:./exercises/Ex1_BuildTransportFunction.m)
-open('exercises/Ex1_TransportEmissions.mlx')
+open('exercises/Ex1_BuildTransportFunction.m')
 %%
 %[text] #### Exercise 2: Personal Carbon Footprint
 %[text] Calculate YOUR complete emissions story. Work on Exercise 2 using [this link.](file:./exercises/Ex2_PersonalImpactStory.m)
-open('exercises/Ex2_PersonalImpactStory.mlx')
+open('exercises/Ex2_PersonalImpactStory.m')
 %%
 %[text] #### Exercise 3: Publishing to GitHub 
 %[text] Share your work with the world. Work on Exercise 3 using [this link.](file:./exercises/Ex3_PublishToGitHub.m)
-open('exercises/Ex3_PublishToGitHub.mlx')
+open('exercises/Ex3_PublishToGitHub.m')
 %%
 %[text] #### Exercise 4: Interactive Action Tracker 
 %[text] Use a web app for reduction planning. Work on Exercise 4 using [this link.](file:./exercises/Ex4_CarbonActionTracker.m)
